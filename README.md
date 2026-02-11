@@ -15,3 +15,17 @@ Dalam proses pendidikan, pengelolaan data akademik dan evaluasi karakter siswa m
 *Keterbatasan akses terhadap informasi yang terintegrasi*
 
 Berdasarkan permasalahan tersebut, SISPEKA dirancang sebagai solusi sistem informasi terintegrasi yang mampu mengelola data akademik dan karakter siswa secara sistematis serta mendukung proses evaluasi pendidikan secara berkelanjutan.
+
+**Tujuan Pengembangan Sistem**
+
+Tujuan pengembangan SISPEKA antara lain:
+
+Menyediakan sistem informasi terintegrasi untuk pengelolaan data akademik dan karakter siswa
+
+Membantu guru dalam melakukan pencatatan dan evaluasi nilai, absensi, serta perilaku siswa
+
+Meningkatkan akurasi dan konsistensi data akademik
+
+Mempermudah proses monitoring dan pelaporan data siswa
+
+Menjadi dasar pengembangan sistem pendidikan berbasis teknologi informasi di masa depan
